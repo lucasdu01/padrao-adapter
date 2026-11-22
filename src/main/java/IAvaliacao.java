@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
+public interface IAvaliacao {
+    String getAvaliacao();
 
-public class IAvaliacao {
+    void setAvaliacao(String avaliacao);
 }
